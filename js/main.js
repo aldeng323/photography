@@ -1,4 +1,8 @@
-// Animate Smooth Scrolling
+// Animate Smooth Scrolling Script 
+
+
+/*
+
 $('#view-work').on('click', function() {
     const images = $('#images').position().top;
 
@@ -6,4 +10,5 @@ $('#view-work').on('click', function() {
         scrollTop: images
     }, 900);
 });
-     
+
+*/
