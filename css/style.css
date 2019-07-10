@@ -2,7 +2,7 @@
 
 html {
     scroll-behavior: smooth;
-    transition-timing-function: .01s;
+    transition-timing-function: .61s;
 }
 body {
     font-family: 'Roboto Condensed', sans-serif;
@@ -57,13 +57,13 @@ main {
 }
 
 #landing-image {
-    background: url(https://source.unsplash.com/pTCcJSBOTxY);
+    background: url(/img/losangeles18.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
     flex: 0 1 60vw;
-    margin: 0;
+    /* margin: 10px; */
 }
 
 .btn {
@@ -77,7 +77,7 @@ main {
 }
 
 .btn:hover {
-    background: #f4f4f4;
+    background: rgb(216, 29, 29);
 }
 
 
